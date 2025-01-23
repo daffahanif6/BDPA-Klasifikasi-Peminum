@@ -1,4 +1,4 @@
-# BDPA-Klasifikasi-Peminum
+# BDPA-Klasifikasi Peminum Berdasarkan Sinyal Tubuh
 
 ## Project ini disusun oleh
 * Daffa Hanif Durachman | 21.11.4470
